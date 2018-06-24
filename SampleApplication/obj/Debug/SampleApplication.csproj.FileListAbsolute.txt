@@ -17,9 +17,7 @@ E:\Projects\Workspace\SampleApplication\obj\Debug\SampleApplication.csproj.CopyC
 E:\Projects\Workspace\SampleApplication\obj\Debug\SampleApplication.dll
 E:\Projects\Workspace\SampleApplication\obj\Debug\SampleApplication.pdb
 E:\Projects\Workspace\SampleApplication\bin\Debug\chromedriver.exe
-E:\Projects\Workspace\SampleApplication\bin\Debug\ClassLibrary1.dll
 E:\Projects\Workspace\SampleApplication\bin\Debug\nunit.framework.dll
-E:\Projects\Workspace\SampleApplication\bin\Debug\ClassLibrary1.pdb
 E:\Projects\Workspace\SampleApplication\bin\Debug\nunit.framework.pdb
 E:\Projects\Workspace\SampleApplication\bin\Debug\nunit.framework.xml
 E:\Projects\Workspace\SampleApplication\bin\Debug\NUnit3.TestAdapter.dll
@@ -32,3 +30,5 @@ E:\Projects\Workspace\SampleApplication\bin\Debug\SeleniumExtras.WaitHelpers.dll
 E:\Projects\Workspace\SampleApplication\bin\Debug\PageObjectLibrairies.pdb
 E:\Projects\Workspace\SampleApplication\bin\Debug\DataObjectLibrairies.dll
 E:\Projects\Workspace\SampleApplication\bin\Debug\DataObjectLibrairies.pdb
+E:\Projects\Workspace\SampleApplication\bin\Debug\YutyFramework.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\YutyFramework.pdb
