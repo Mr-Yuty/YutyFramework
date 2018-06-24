@@ -12,7 +12,7 @@ namespace YutyFramework
         [SetUp]
         public void InitialisationForAllTest()
         {
-            Driver = new ChromeDriver();
+            Driver = WebDriverFactory.GetDriver(BrowserType.Chrome);
             Driver.Manage().Window.Maximize();
         }
         [TearDown]
