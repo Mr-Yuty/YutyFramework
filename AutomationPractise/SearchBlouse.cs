@@ -4,10 +4,13 @@ using YutyFramework;
 namespace AutomationPractise
 {
     [TestFixture]
+    [Category("SearchResults")]
     public class SearchBlouse : BaseTest
     {
         [Test]
-        public void SearchForABlouse()
+        [Description("Search for a blouse and assert the result")]
+        [Author("Yuty","Lordyuty@live.fr")]
+        public void TC001_SearchForBlouse()
         {
             var automationPractisePage = new AutomationPractisePage(Driver);
             automationPractisePage.GoTo();

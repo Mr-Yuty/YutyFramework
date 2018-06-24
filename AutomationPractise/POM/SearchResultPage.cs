@@ -13,12 +13,19 @@ namespace AutomationPractise
 
         public bool Contains(Item item)
         {
-            switch (item)
+            try
             {
-                case Item.Blouse:
-                    return this.IsVisible && Driver.FindElement(By.LinkText("Blouse")).Displayed;
-                default:
-                    throw new ArgumentException("There is no such item");
+                switch (item)
+                {
+                    case Item.Blouse:
+                        return this.IsVisible && Driver.FindElement(By.LinkText("Blouse")).Displayed;
+                    default:
+                        throw new ArgumentException("There is no such item");
+                }
+            }
+            catch (NoSuchElementException)
+            {
+                return false;
             }
         }
     }
