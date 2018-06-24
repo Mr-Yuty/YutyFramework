@@ -1,0 +1,6 @@
+E:\Projects\Workspace\DataObjectLibrairies\obj\Debug\DataObjectLibrairies.csprojAssemblyReference.cache
+E:\Projects\Workspace\DataObjectLibrairies\obj\Debug\DataObjectLibrairies.csproj.CoreCompileInputs.cache
+E:\Projects\Workspace\DataObjectLibrairies\bin\Debug\DataObjectLibrairies.dll
+E:\Projects\Workspace\DataObjectLibrairies\bin\Debug\DataObjectLibrairies.pdb
+E:\Projects\Workspace\DataObjectLibrairies\obj\Debug\DataObjectLibrairies.dll
+E:\Projects\Workspace\DataObjectLibrairies\obj\Debug\DataObjectLibrairies.pdb

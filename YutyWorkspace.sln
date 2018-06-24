@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjectQuizz", "PageObjectQuizz\PageObjectQuizz.csproj", "{6E309385-C03A-4AF3-8E32-5C1B5B40E86C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YutyFramework", "ClassLibrary1\YutyFramework.csproj", "{E76F4C7A-2762-4ECA-8CA0-16C894485FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjectLibrairies", "PageObjectLibrairies\PageObjectLibrairies.csproj", "{B0066F8E-E5E2-4FF6-BDDF-7375F14B611A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApplication", "SampleApplication\SampleApplication.csproj", "{C25D90B9-CCBB-406D-94D5-5E273D7B3CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectLibrairies", "DataObjectLibrairies\DataObjectLibrairies.csproj", "{8AED8A95-71DE-4C8A-A99F-8EB684417C18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ressources", "Ressources", "{FEBC4395-88E4-4CD1-9156-5ED8E8F3601A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestProjects", "TestProjects", "{BCE4E352-A4D5-456F-85F9-84A520ABDCD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{B22476DB-79F8-4488-B36B-0AC722FD00DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E309385-C03A-4AF3-8E32-5C1B5B40E86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E309385-C03A-4AF3-8E32-5C1B5B40E86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E309385-C03A-4AF3-8E32-5C1B5B40E86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E309385-C03A-4AF3-8E32-5C1B5B40E86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76F4C7A-2762-4ECA-8CA0-16C894485FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76F4C7A-2762-4ECA-8CA0-16C894485FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76F4C7A-2762-4ECA-8CA0-16C894485FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76F4C7A-2762-4ECA-8CA0-16C894485FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0066F8E-E5E2-4FF6-BDDF-7375F14B611A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0066F8E-E5E2-4FF6-BDDF-7375F14B611A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0066F8E-E5E2-4FF6-BDDF-7375F14B611A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0066F8E-E5E2-4FF6-BDDF-7375F14B611A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25D90B9-CCBB-406D-94D5-5E273D7B3CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25D90B9-CCBB-406D-94D5-5E273D7B3CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25D90B9-CCBB-406D-94D5-5E273D7B3CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25D90B9-CCBB-406D-94D5-5E273D7B3CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AED8A95-71DE-4C8A-A99F-8EB684417C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AED8A95-71DE-4C8A-A99F-8EB684417C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AED8A95-71DE-4C8A-A99F-8EB684417C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AED8A95-71DE-4C8A-A99F-8EB684417C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E309385-C03A-4AF3-8E32-5C1B5B40E86C} = {BCE4E352-A4D5-456F-85F9-84A520ABDCD9}
+		{E76F4C7A-2762-4ECA-8CA0-16C894485FFD} = {B22476DB-79F8-4488-B36B-0AC722FD00DE}
+		{B0066F8E-E5E2-4FF6-BDDF-7375F14B611A} = {FEBC4395-88E4-4CD1-9156-5ED8E8F3601A}
+		{C25D90B9-CCBB-406D-94D5-5E273D7B3CFB} = {BCE4E352-A4D5-456F-85F9-84A520ABDCD9}
+		{8AED8A95-71DE-4C8A-A99F-8EB684417C18} = {FEBC4395-88E4-4CD1-9156-5ED8E8F3601A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04272206-6DA1-4E80-AD92-8EA78A09E52E}
+	EndGlobalSection
+EndGlobal
