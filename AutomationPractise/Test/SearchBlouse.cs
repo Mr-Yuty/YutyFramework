@@ -4,7 +4,7 @@ using YutyFramework;
 namespace AutomationPractise
 {
     [TestFixture]
-    [Category("SearchResults")]
+    [Category("AutomationPractice")]
     public class SearchBlouse : BaseTest
     {
         [Test]
@@ -14,8 +14,19 @@ namespace AutomationPractise
         {
             var automationPractisePage = new AutomationPractisePage(Driver);
             automationPractisePage.GoTo();
-            var SearchResultPage = automationPractisePage.SearchFor(Item.Blouse.ToString());
+            var SearchResultPage = automationPractisePage.SearchFor("Blouse");
             Assert.IsTrue(SearchResultPage.Contains(Item.Blouse), "The page was not displayed or did not contain the following item : " + Item.Blouse.ToString());
+
+        }
+        [Test]
+        [Description("Verify that the contact form is displayed")]
+        [Author("Yuty", "Lordyuty@live.fr")]
+        public void TC002_CheckContactPageIsVisible()
+        {
+            var automationPractisePage = new AutomationPractisePage(Driver);
+            automationPractisePage.GoTo();
+            var contactPage = automationPractisePage.ClickContact();
+            Assert.IsTrue(contactPage.ElementsAreVisible());
 
         }
     }

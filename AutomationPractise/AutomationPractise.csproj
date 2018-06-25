@@ -65,9 +65,12 @@
   <ItemGroup>
     <Compile Include="POM\AutomationPractisePage.cs" />
     <Compile Include="DOM\Item.cs" />
-    <Compile Include="SearchBlouse.cs" />
+    <Compile Include="POM\ContactUsPage.cs" />
+    <Compile Include="POM\Slider.cs" />
+    <Compile Include="Test\SearchBlouse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="POM\SearchResultPage.cs" />
+    <Compile Include="Test\SliderNext.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
