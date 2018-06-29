@@ -42,3 +42,13 @@ E:\Projects\Workspace\SampleApplication\bin\Debug\System.Web.Razor.dll
 E:\Projects\Workspace\SampleApplication\bin\Debug\RazorEngine.xml
 E:\Projects\Workspace\SampleApplication\bin\Debug\Newtonsoft.Json.xml
 E:\Projects\Workspace\SampleApplication\bin\Debug\System.Web.Razor.xml
+E:\Projects\Workspace\SampleApplication\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\MongoDB.Bson.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\MongoDB.Driver.Core.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\MongoDB.Driver.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\Workspace\SampleApplication\bin\Debug\HtmlAgilityPack.xml
+E:\Projects\Workspace\SampleApplication\bin\Debug\MongoDB.Bson.xml
+E:\Projects\Workspace\SampleApplication\bin\Debug\MongoDB.Driver.xml
+E:\Projects\Workspace\SampleApplication\bin\Debug\MongoDB.Driver.Core.xml

@@ -27,7 +27,7 @@ namespace SampleApplication
 
         [Test]
         [Category("batch 1")]
-        public void TestMethod1()
+        public void ParallelAttempt6()
         {
             SampleApplicationPage.GoTo();
             SampleApplicationPage.FillOutEmergencyForm(TheOtherTestUser);

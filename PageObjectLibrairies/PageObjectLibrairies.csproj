@@ -64,13 +64,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\YutyFramework.csproj">
-      <Project>{E76F4C7A-2762-4ECA-8CA0-16C894485FFD}</Project>
-      <Name>YutyFramework</Name>
-    </ProjectReference>
     <ProjectReference Include="..\DataObjectLibrairies\DataObjectLibrairies.csproj">
       <Project>{8aed8a95-71de-4c8a-a99f-8eb684417c18}</Project>
       <Name>DataObjectLibrairies</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YutyFramework\YutyFramework.csproj">
+      <Project>{E76F4C7A-2762-4ECA-8CA0-16C894485FFD}</Project>
+      <Name>YutyFramework</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

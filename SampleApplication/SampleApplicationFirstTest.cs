@@ -29,7 +29,7 @@ namespace SampleApplication
    
         [Test]
         [Category("batch 1")]
-        public void TestMethod1()
+        public void Sapp_TC01()
         {
             SampleApplicationPage.GoTo();
             SampleApplicationPage.FillOutEmergencyForm(TheOtherTestUser);
@@ -39,7 +39,7 @@ namespace SampleApplication
 
         [Test]
         [Category("batch 2")]
-        public void TestMethod2()
+        public void Sapp_TC02()
         {
             SampleApplicationPage.GoTo();
             SampleApplicationPage.FillOutEmergencyForm(TheOtherTestUser);
@@ -47,7 +47,7 @@ namespace SampleApplication
             AssertVariation(ultimateQAHomePage);
         }
         [Test]
-        public void TestMethod3()
+        public void Sapp_TC03()
         {
             SampleApplicationPage.GoTo();
             SampleApplicationPage.FillOutEmergencyForm(TheTestUser);
@@ -55,7 +55,7 @@ namespace SampleApplication
             AssertVariation(ultimateQAHomePage);
         }
         [Test]
-        public void TestMethod4()
+        public void Sapp_TC04()
         {
             SampleApplicationPage.GoTo();
             SampleApplicationPage.FillOutEmergencyForm(TheTestUser);

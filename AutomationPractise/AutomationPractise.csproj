@@ -101,7 +101,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NameSpaceSetup.cs" />
     <Compile Include="POM\AutomationPractisePage.cs" />
     <Compile Include="DOM\Item.cs" />
     <Compile Include="POM\ContactUsPage.cs" />
@@ -110,6 +109,7 @@
     <Compile Include="Test\SearchBlouse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="POM\SearchResultPage.cs" />
+    <Compile Include="Test\SetUpFixture.cs" />
     <Compile Include="Test\SliderNext.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -125,12 +125,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\YutyFramework.csproj">
+    <ProjectReference Include="..\YutyFramework\YutyFramework.csproj">
       <Project>{e76f4c7a-2762-4eca-8ca0-16c894485ffd}</Project>
       <Name>YutyFramework</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

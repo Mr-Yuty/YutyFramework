@@ -1,10 +1,5 @@
 ﻿using DataObjectLibrairies;
 using NUnit.Framework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using YutyFramework;
 
 namespace SampleApplication
@@ -27,7 +22,7 @@ namespace SampleApplication
 
         [Test]
         [Category("batch 1")]
-        public void TestMethod1()
+        public void ParallelAttempt1()
         {
             SampleApplicationPage.GoTo();
             SampleApplicationPage.FillOutEmergencyForm(TheOtherTestUser);
