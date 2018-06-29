@@ -34,3 +34,13 @@ E:\Projects\Workspace\PageObjectQuizz\bin\Debug\DataObjectLibrairies.dll
 E:\Projects\Workspace\PageObjectQuizz\bin\Debug\DataObjectLibrairies.pdb
 E:\Projects\Workspace\PageObjectQuizz\bin\Debug\YutyFramework.dll
 E:\Projects\Workspace\PageObjectQuizz\bin\Debug\YutyFramework.pdb
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\NLog.config
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\NLog.dll
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\NLog.xml
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\ExtentReports.dll
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\RazorEngine.dll
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\System.Web.Razor.dll
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\RazorEngine.xml
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Workspace\PageObjectQuizz\bin\Debug\System.Web.Razor.xml

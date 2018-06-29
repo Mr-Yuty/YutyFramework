@@ -32,3 +32,13 @@ E:\Projects\Workspace\SampleApplication\bin\Debug\DataObjectLibrairies.dll
 E:\Projects\Workspace\SampleApplication\bin\Debug\DataObjectLibrairies.pdb
 E:\Projects\Workspace\SampleApplication\bin\Debug\YutyFramework.dll
 E:\Projects\Workspace\SampleApplication\bin\Debug\YutyFramework.pdb
+E:\Projects\Workspace\SampleApplication\bin\Debug\NLog.config
+E:\Projects\Workspace\SampleApplication\bin\Debug\NLog.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\NLog.xml
+E:\Projects\Workspace\SampleApplication\bin\Debug\ExtentReports.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\RazorEngine.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\System.Web.Razor.dll
+E:\Projects\Workspace\SampleApplication\bin\Debug\RazorEngine.xml
+E:\Projects\Workspace\SampleApplication\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Workspace\SampleApplication\bin\Debug\System.Web.Razor.xml

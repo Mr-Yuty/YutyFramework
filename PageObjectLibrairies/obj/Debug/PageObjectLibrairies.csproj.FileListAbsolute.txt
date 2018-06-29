@@ -29,3 +29,13 @@ E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\DataObjectLibrairies.dll
 E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\DataObjectLibrairies.pdb
 E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\YutyFramework.dll
 E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\YutyFramework.pdb
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\NLog.config
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\NLog.dll
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\NLog.xml
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\ExtentReports.dll
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\RazorEngine.dll
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\System.Web.Razor.dll
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\RazorEngine.xml
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Workspace\PageObjectLibrairies\bin\Debug\System.Web.Razor.xml
