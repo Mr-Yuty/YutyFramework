@@ -98,6 +98,7 @@
     <Compile Include="BasePageObject.cs" />
     <Compile Include="BaseTest.cs" />
     <Compile Include="BrowserType.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reporter.cs" />
     <Compile Include="ScreenshotTaker.cs" />
